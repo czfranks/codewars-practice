@@ -1,0 +1,18 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2-break-the-pieces.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.7.0",
+    "eslint": "^9.7.0",
+    "globals": "^15.8.0",
+    "standard": "^17.1.0"
+  }
+}
