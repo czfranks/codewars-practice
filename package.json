@@ -1,6 +1,7 @@
 {
   "name": "katas",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "2-break-the-pieces.js",
   "scripts": {
