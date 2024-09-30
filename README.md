@@ -1,2 +1,2 @@
 # codewars-practice
-Solving katas everyday
+Solving katas :?
